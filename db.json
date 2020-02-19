@@ -1,0 +1,20 @@
+[
+  
+    {
+    "title": "Hair coloring",
+    "id": "1",
+    "rate": "85"
+    },
+    
+    {
+     "title": "Haircut",
+     "id": "2",
+     "rate":"100"
+     },
+     
+     {
+     "title":"Beard trim",
+     "id": "3",
+     "rate":"50"
+     }
+ ]
